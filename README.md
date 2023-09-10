@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/rajakamanishsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajakamanishsingh" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lordvoldemort2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lordvoldemort2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rajakamanishsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajakamanishsin1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rajakamanishsin1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rajakamanishsin1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manish_148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manish_148" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rajakamanishsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajakamanishsingh" height="30" width="40" /></a>
 </p>
