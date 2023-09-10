@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajakamanishsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rajakamanishsingh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajakamanishsingh" alt="rajakamanishsingh" /></a> </p>
-
 - 🌱 I’m currently learning **CCNA**
 
 - 📫 How to reach me **rajakamanishsingh@gmail.com**
