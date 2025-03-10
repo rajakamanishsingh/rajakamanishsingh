@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rajakamanishsingh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vikL2rtgMQPcVXQte864ZTt6k1fJD_xL/](https://drive.google.com/file/d/1vikL2rtgMQPcVXQte864ZTt6k1fJD_xL/)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1vikL2rtgMQPcVXQte864ZTt6k1fJD_xL/](https://drive.google.com/file/d/1vikL2rtgMQPcVXQte864ZTt6k1fJD_xL/](https://drive.google.com/file/d/1_prZmDo30PEKDuw-AF89y3r89G-fNsl1/view?usp=sharing))
 
 - ⚡ Fun fact **I am a Gamer**
 
